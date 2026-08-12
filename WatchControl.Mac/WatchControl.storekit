@@ -1,0 +1,50 @@
+{
+  "identifier" : "TBS",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.0",
+      "familyShareable" : true,
+      "internalID" : "6447316433",
+      "localizations" : [
+        {
+          "description" : "Three day Free Trial",
+          "displayName" : "Free Trial",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.atadore.WatchControl.FreeTrial",
+      "referenceName" : "Free Trial",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : true,
+      "internalID" : "6447301272",
+      "localizations" : [
+        {
+          "description" : "One-time purchase after free trial",
+          "displayName" : "One-time purchase",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.atadore.WatchControl.Unlock01",
+      "referenceName" : "Unlock",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "TBS",
+    "_developerTeamID" : "TBS",
+    "_lastSynchronizedDate" : 707085137.52617896
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}
