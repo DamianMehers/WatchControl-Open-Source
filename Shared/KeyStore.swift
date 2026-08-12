@@ -3,7 +3,7 @@ import os
 
 class KeyStore {
     
-    let group = "KN2NA8RWM9.com.atadore.WatchRemote"
+    let group = "TBS.com.atadore.WatchRemote"
     
     static let shared = KeyStore();
     
